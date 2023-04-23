@@ -1,0 +1,6 @@
+app_settings:
+  host_details:
+    host: "localhost"
+    port: "8080"
+  db_details: "sqlserver://sa:Password123@localhost?database=myproject"
+  jwt_key: "OZckQqGluNk0XuhwDXHlw7yL1KtSXB2cLBpm4cEYnXDBricR97v9FRyY7Zqrpy9i"
